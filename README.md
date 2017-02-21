@@ -8,24 +8,9 @@ it up to date.
 It can be run multiple times on the same machine safely. It installs,
 upgrades, or skips packages based on what is already installed on the machine.
 
-This particular version of the script is geared toward beginners who want to
-set up a Ruby on Rails environment on their Mac. More advanced users can
-easily [customize](#customize-in-laptoplocal) the script to install additional
-tools. To see an example of a more advanced script, check out
-[18F/laptop](https://github.com/18F/laptop).
-
-Requirements
-------------
-
-I support clean installations of these operating systems:
-
-* [macOS Sierra](https://www.apple.com/macos/sierra/) (10.12)
-* OS X El Capitan (10.11)
-* OS X Yosemite (10.10)
-* OS X Mavericks (10.9)
-
-Older versions may work but aren't regularly tested. Bug reports for older
-versions are welcome.
+This particular version of the script is geared toward me and my preferred setup for Ruby
+on Rails, Apache/PHP/MySQL, and text editing. If you want your own version, you should
+check out [the original](https://github.com/monfresh/laptop).
 
 Install
 -------
