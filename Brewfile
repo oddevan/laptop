@@ -10,7 +10,7 @@ tap 'homebrew/services'
 
 #brew 'phantomjs'
 
-#brew 'hub'
+brew 'hub'
 
 #cask 'flux'
 cask 'github-desktop'
