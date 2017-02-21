@@ -24,10 +24,10 @@ and once it appears, press `return` to launch it.
 In your Terminal window, copy and paste the command below, then press `return`.
 
 ```sh
-bash <(curl -s https://raw.githubusercontent.com/monfresh/laptop/master/laptop)
+bash <(curl -s https://raw.githubusercontent.com/oddevan/laptop/oddevan/laptop)
 ```
 
-The [script](https://github.com/monfresh/laptop/blob/master/mac) itself is
+The [script](https://github.com/oddevan/laptop/blob/oddevan/mac) itself is
 available in this repo for you to review if you want to see what it does
 and how it works.
 
@@ -62,34 +62,24 @@ What it sets up
 
 * [Bundler] for managing Ruby gems
 * [chruby] for managing [Ruby] versions
-* [Flux] for adjusting your Mac's display color so you can sleep better
 * [GitHub Desktop] for setting up your SSH keys automatically
 * [Heroku Toolbelt] for deploying and managing Heroku apps
 * [Homebrew] for managing operating system libraries
 * [Homebrew Cask] for quickly installing Mac apps from the command line
 * [Homebrew Services] so you can easily stop, start, and restart services
-* [hub] for interacting with the GitHub API
-* [PhantomJS] for headless website testing
-* [Postgres] for storing relational data
 * [ruby-install] for installing different versions of Ruby
-* [Sublime Text 3] for coding all the things
 * [Zsh] as your shell (if you opt in)
+* plus a bunch of other apps that you scan read in the Brewfile
 
 [Bundler]: http://bundler.io/
 [chruby]: https://github.com/postmodern/chruby
-[Flux]: https://justgetflux.com/
 [GitHub Desktop]: https://desktop.github.com/
 [Heroku Toolbelt]: https://toolbelt.heroku.com/
 [Homebrew]: http://brew.sh/
 [Homebrew Cask]: http://caskroom.io/
 [Homebrew Services]: https://github.com/Homebrew/homebrew-services
-[hub]: https://github.com/github/hub
-[PhantomJS]: http://phantomjs.org/
-[Postgres]: http://www.postgresql.org/
 [Ruby]: https://www.ruby-lang.org/en/
 [ruby-install]: https://github.com/postmodern/ruby-install
-[Sublime Text 3]: http://www.sublimetext.com/3
-[Zsh]: http://www.zsh.org/
 
 It should take less than 15 minutes to install (depends on your machine and
 internet connection).
