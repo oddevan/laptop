@@ -35,6 +35,7 @@ cask 'inkscape'
 cask 'mamp'
 cask 'macdown'
 cask 'veertu-desktop'
+cask 'cyberduck'
 
 # And Visual Stuido Code...
 cask 'visual-studio-code'
