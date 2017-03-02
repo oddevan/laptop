@@ -36,6 +36,7 @@ cask 'mamp'
 cask 'macdown'
 cask 'veertu-desktop'
 cask 'cyberduck'
+cask 'sequel-pro'
 
 # And Visual Stuido Code...
 cask 'visual-studio-code'
