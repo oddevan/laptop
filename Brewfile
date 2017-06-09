@@ -10,13 +10,14 @@ tap 'homebrew/services'
 
 #brew 'phantomjs'
 
-#brew 'hub'
+brew 'hub'
 
 #cask 'flux'
 cask 'github-desktop'
 #cask 'sublime-text'
 
 # Evan also wants...
+cask 'keybase'
 
 # Node... mostly for Bootstrap :P
 brew 'node'
@@ -35,6 +36,9 @@ cask 'inkscape'
 cask 'mamp'
 cask 'macdown'
 cask 'veertu-desktop'
+cask 'cyberduck'
+cask 'sequel-pro'
+cask 'sqlitebrowser'
 
 # And Visual Stuido Code...
 cask 'visual-studio-code'
