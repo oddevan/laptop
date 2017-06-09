@@ -47,4 +47,3 @@ cask 'visual-studio-code'
 # And some other things for reasons
 brew youtube-dl
 cask scrivener
-cask keybase
