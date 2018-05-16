@@ -5,6 +5,7 @@ brew 'git'
 brew 'heroku'
 
 tap 'homebrew/services'
+tap 'caskroom/fonts'
 
 #brew 'postgresql'
 
@@ -35,15 +36,19 @@ cask 'inkscape'
 # Some other dev things
 cask 'mamp'
 cask 'macdown'
-cask 'veertu-desktop'
 cask 'cyberduck'
 cask 'sequel-pro'
 cask 'sqlitebrowser'
 
-# And Visual Stuido Code...
-cask 'visual-studio-code'
+# And BBEdit...
+cask 'bbedit'
 # ...because I said so.
 
 # And some other things for reasons
 brew 'youtube-dl'
 cask 'scrivener'
+
+# And now... fonts!
+cask 'font-montserrat'
+cask 'font-raleway'
+
